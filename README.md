@@ -8,7 +8,7 @@ DEFI BOOT is a tool for teams with marketing capabilities to start blockchain DE
 
 # Examples
 
-[TronDM](https://boot.trs.so?name=TronDM)
+[TronDM](https://trs.so?name=TronDM)
 
 # Other
 
