@@ -4,7 +4,7 @@ DEFI BOOT is a tool for teams with marketing capabilities to start blockchain DE
 
 # Create your defi project
 
- [DEFI BOOT](https://boot.trs.so)
+Start your project [DEFI BOOT](https://boot.trs.so)
 
 # Examples
 
@@ -15,3 +15,5 @@ DEFI BOOT is a tool for teams with marketing capabilities to start blockchain DE
 Please submit any Issues
 
 [Join Discord](https://discord.gg/VvuQ2hb)
+
+
