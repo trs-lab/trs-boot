@@ -4,8 +4,14 @@ DEFI BOOT is a tool for teams with marketing capabilities to start blockchain DE
 
 # Create your defi project
 
-Defi boot [boot](https://boot.trs.so)
+ [DEFI BOOT](https://boot.trs.so)
 
 # Examples
 
-TronDM [TronDM](https://boot.trs.so?name=TronDM)
+[TronDM](https://boot.trs.so?name=TronDM)
+
+# Other
+
+Please submit any Issues
+
+[Join Discord](https://discord.gg/VvuQ2hb)
