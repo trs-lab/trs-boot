@@ -8,7 +8,7 @@ Start your project [DEFI BOOT](https://boot.trs.so)
 
 # Examples
 
-[TronDM](https://trs.so?name=TronSuper)
+[TronSuper](https://trs.so?name=TronSuper)
 
 # Other
 
